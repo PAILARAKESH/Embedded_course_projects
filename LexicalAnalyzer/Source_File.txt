@@ -1,0 +1,14 @@
+#include<stdio.h>
+void greet ( char name [ ] ) ;
+int main ( )
+{
+greet ( " Alice " ) ;
+greet ( " Bob " ) ;
+return 0 ;
+}
+void greet ( char name [ ] )
+{
+printf ( " Hello %f \n " , name ) ;
+int 0xFF ;
+char A = ' H ' ;
+}
